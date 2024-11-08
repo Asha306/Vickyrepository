@@ -28,7 +28,7 @@ public class ProductInfoPage {
 				@FindBy(id = "dtlview_Website")
 				private WebElement RIcon;
 
-	//asha			
+	//asha111111			
 	@FindBy(xpath = "//span[@class='lvtHeaderText']")
 	private WebElement ElementTextasha;
 
