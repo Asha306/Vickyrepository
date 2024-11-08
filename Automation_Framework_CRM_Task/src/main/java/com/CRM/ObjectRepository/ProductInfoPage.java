@@ -9,6 +9,9 @@ import org.testng.asserts.SoftAssert;
 
 public class ProductInfoPage {
 
+	private static final WebElement ElementText = null;
+
+
 	public ProductInfoPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 	}
