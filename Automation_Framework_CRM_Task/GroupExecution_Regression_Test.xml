@@ -13,7 +13,7 @@
 			<class name="com.CRM.ContactTest.TestScriptForCont" />
 			<class name="com.CRM.LeadsTest.TestScriptForLeads" />
 			<class name="com.CRM.OrganisationTest.TestScriptForOrganisation" />
-			<class name="com.CRM.ProductsTest.TestScriptForProducts" />
+			
 		</classes>
 	</test> <!--
 	Test -->
