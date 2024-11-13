@@ -40,7 +40,7 @@ public class TestScriptForCont extends BaseClassForCRM {
 		cip.verifyLastName(Name);
 		System.out.println();
 		cip.verifyMobileNum(Contact_No);
-		//ashamilky
+	
 		System.out.println();
 	}
 
