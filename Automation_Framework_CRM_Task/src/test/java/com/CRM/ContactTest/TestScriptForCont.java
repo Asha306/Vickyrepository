@@ -40,8 +40,9 @@ public class TestScriptForCont extends BaseClassForCRM {
 		cip.verifyLastName(Name);
 		System.out.println();
 		cip.verifyMobileNum(Contact_No);
-	
-		System.out.println();
+	//ashamilky
+		System.out.println("hiiiiii");
+		
 	}
 
 	@Test(groups = "regression",retryAnalyzer = com.CRM.Generic.ListenerUtility.ListenerClassForCRM.class)
